@@ -1,3 +1,1 @@
-Simple Mastermind game engine where the code is made from the numbers 1 .. code length. At start up give the number of pegs 
-to make the code from and the code length. Type in the code guess and verify the status print out at the form ['W','B',...],
-where W = White and B = black gives the status about correct pegs and correct placed pegs.
+Simple Mastermind game engine where the code is made from the numbers 1 .. code length. At start up give the number of pegs to make the code from and the code length. Type in the code guess and verify the status print out at the form ['W','B',...], where W = White and B = black gives the status about correct pegs and correct placed pegs.
